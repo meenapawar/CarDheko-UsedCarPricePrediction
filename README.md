@@ -1,3 +1,6 @@
+CarDheko Used Car Price Prediction
+This project predicts used car prices based on various features such as brand, type, mileage, kilometers driven, and more. It employs a Random Forest Regressor model and delivers predictions through a user-friendly Streamlit web application.
+
 Table of Contents
 1.	Overview
 2.	Directory Structure
